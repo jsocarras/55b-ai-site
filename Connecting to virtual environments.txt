@@ -1,0 +1,2 @@
+conda info --envs //returns list of virtual environments
+source activate *environment name*
