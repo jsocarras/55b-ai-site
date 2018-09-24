@@ -1,0 +1,122 @@
+Hi, I arranged a provisional site cielovr.com
+we need to start putting content, we can start with our bios and a couple of blog posts. we can work on the design later. the form is there, but it seems like is not working. I have to solve that. also, can you send me the social media accounts? so we can link to the site .also, I want to offer the site content in different languages, we should position the company as a global company since the start.
+
+Denis [9:28 PM]
+The site looks good! Here are social media accounts (https://www.linkedin.com/company/cielovr/ ,  https://twitter.com/VrCielo) And yes I agree offering the site in different languages as well as making it a global company. We don't want to limit ourselves to just one market.
+
+Michael [9:43 PM]
+Thanks that is just a standard template but we def need to design it more
+
+Denis [5:19 PM]
+http://go.secondlife.com/landing/education/?lang=en
+Hey Michael, look at this website I found while reading an article. This is what we want to do but on a different level.
+
+Denis [8:32 AM]
+Hey Michael, how's it going?
+
+Michael [12:44 PM]
+hi, sorry, my bosses are in NY from LA, and I will be in meetings all day until thursday :disappointed:
+
+Denis [1:01 PM]
+haha I know the feeling
+Have you assigned Alex and Abel onto the website ?
+
+Michael [5:46 PM]
+do you mean, Jira, or the wordpress site?
+
+Denis [9:25 AM]
+Both
+
+Michael [9:25 AM]
+they are added to jira, I resent invites yesterday.
+
+Denis [1:18 PM]
+Hey Michael , I called you to briefly go over a few things. 1st is a developer timeline, If you can make a timeline for all devs and designers to follow that way we/they know when to complete their task.Also, my friend Michael has invited us to the NYVR Expo coming up soon. He is attempting to get tickets so we can attend. He also would like to be on the advisory board and use our company for a trial run/case study for his company 55B.ai . Here's his website if you want to check it out (https://www.55b.cloud)
+
+Michael [1:22 PM]
+Awesome let me call you back in 20 min
+
+Michael [3:55 PM]
+let me know if I can call you later toay
+we should get the logo ready so we can get some branding on the site and collaterals.
+I assigned the task to Abel
+user-status.png 
+that is the status of the users, Prem Saurab and Joe have not logged in yet.
+
+Denis [4:20 PM]
+Abel is working on logo now and will have it done by tomorrow
+idk if Joe has logged onto his Cielo mail account so try sending it to his original email Joeobrien4402@gmail.com
+Saurabh has been iffy so Im looking into other front end developers
+
+Michael [4:21 PM]
+yes, I sent to their personal emails, nobody activated their gmail accounts, in a way I understand, is another tool to keep track off. so I'm ok with that
+
+Denis [4:23 PM]
+ok no problem
+im texting joe to remind him to log onto lira , contacting prem right now (edited)
+
+Michael [4:24 PM]
+I mispoke, I have to create a new account for joe with his personal email, doing that now
+
+Denis [4:25 PM]
+ok got it
+
+Michael [4:25 PM]
+ok done
+what is saurabs email?
+personal email
+
+Denis [4:28 PM]
+saurabhbandawar3@gmail.com
+
+Michael [4:31 PM]
+:+1:
+
+Denis [6:33 PM]
+https://strivr.com
+How can we be better than them?
+
+Denis [7:03 PM]
+Also here is the method description
+Word Document 
+Why we believe XR technologies are great for language learning.docx
+195 kB Word Document
+I uploaded it on Jira as well
+
+Michael [7:14 PM]
+Thanks
+
+Michael [9:52 AM]
+I was thinking that to add more content to the website, we can have some free resoureces for parents and teachers. I can create a simple AR lesson that parents can print and user with their children.
+
+Denis [10:21 AM]
+I believe ClassVR does something like that
+http://www.classvr.com/school-curriculum-content-subjects/augmented-reality-resources/english-augmented-reality-content/
+
+Michael [10:22 AM]
+yeah thats it. what I want to do is to also unclude sound and speech recognition
+as the child is using the AR model, they can select activities to do. make it more interactive.
+
+Denis [10:23 AM]
+That sounds like a great idea!
+Did you look at the strivr website? They build simulations similar to what you want to do.
+
+Michael [10:26 AM]
+not yet, I will have some time later today.
+
+Michael [10:36 AM]
+can you come to the event this weekend, is in timesquare
+
+Denis [10:49 AM]
+Can you send me the flyer again ?
+
+Michael [10:50 AM]
+https://2018.nyc.wordcamp.org/
+check here, is only 40, includes lunch and 2 full days of talks, my talk will be on sunday at 10:30am
+
+
+Denis [11:02 AM]
+I have my son this weekend, but I may be able to do Sunday.
+
+Michael [11:06 AM]
+:+1:
