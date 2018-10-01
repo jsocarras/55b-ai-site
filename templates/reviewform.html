@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Movie Classification</title>
+      <link rel="stylesheet"
+        href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+    <a href="https://www.55b.cloud">
+        <img src="https://pbs.twimg.com/profile_images/1030964954738831360/HV0VoztG_400x400.jpg">
+    </a>
+
+    <h2>Preview Cody!</h2>
+    <p></p>Tell Cody what you thought about the last movie you watched, and Cody will guess if you enjoyed yourself!:</p>
+
+    {% from "_formhelpers.html" import render_field %}
+
+    <form method=post action="/results">
+      <dl>
+        {{ render_field(form.moviereview, cols='30', rows='10') }}
+      </dl>
+      <div>
+        <input type=submit value='Submit review'
+        name='submit_btn'>
+      </div>
+    </form>
+
+    <p>Cody makes conversations nicer. See more at: <a href="https://www.55b.cloud/">https://55b.cloud!</a></p>
+
+    <p>Here's how one company is using Cody to automatically screen enterprise-wide messages for harassment:</p>
+    <iframe src="https://drive.google.com/file/d/1QFUQS6U2b3F6X6dXhkqHKOHojquB7NUO/preview" width="640" height="480"></iframe>
+
+  </body>
+</html>
