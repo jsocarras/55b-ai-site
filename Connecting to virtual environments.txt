@@ -1,8 +1,0 @@
-VIRUTAL ENVIRONMENTS
-//returns list of virtual environments
-conda info --envs 
-source activate MyDjangoEnv2
-source deactivate *environment name*
-
-SERVER MANAGEMENT
-python manage.py runserver

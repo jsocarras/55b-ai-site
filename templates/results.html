@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Movie Classification</title>
+      <link rel="stylesheet"
+      href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+    <h3>Your movie review:</h3>
+    <div>Cody says: This movie review is <strong>{{ prediction}}</strong>
+    (probability: {{ probability}}%).</div>
+
+    <div id='button'>
+      <form action="/thanks" method="post">
+        <input type=submit value='Correct'
+        name = 'feedback_button'>
+        <input type=submit value='Incorrect'
+        name = 'feedback_button'>
+        <input type=hidden value='{{ prediction }}'
+        name='prediction'>
+        <input type=hidden value='{{ content }}'
+        name='review'>
+      </form>
+    </div>
+
+    <div id='button'>
+      <form action="/">
+        <input type=submit value='Submit another review'>
+      </form>
+    </div>
+
+    <h5>Thanks! Your input makes Cody smarter over time!</h5>
+    <img src="https://static1.squarespace.com/static/5b22c381b105987449b06a77/t/5b70dcec0ebbe8405ce6c97e/1534123248135/Screen+Shot+2018-08-12+at+6.19.48+PM.png?format=2500w">
+
+
+  </body>
+</html>
